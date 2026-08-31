@@ -1,7 +1,5 @@
 # Lista de Exercícios - Sistema de Biblioteca (Java + PostgreSQL)
 
-Formação Desenvolvedor Full Stack Júnior
-
 ## Exercício 1 — Sistema de Biblioteca em Java
 Uma biblioteca de bairro quer controlar seu acervo — livros e revistas — emprestado a alunos e professores.  
 - Livro: 14 dias de prazo, multa de R$ 0,50/dia.  
